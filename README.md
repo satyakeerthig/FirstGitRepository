@@ -1,3 +1,3 @@
 # FirstGitRepository
-#Demo
+# Demo
 This is My First Git Repo
